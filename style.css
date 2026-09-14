@@ -1,6 +1,9 @@
 html{
     font-family: Arial, sans-serif;
-    background-color:white
+    background-color:white;
+}
+body{
+    margin:0;
 }
 .header {
     background-color:aqua;
@@ -9,3 +12,18 @@ h2{
     background-color:lightblue;
 }
 
+.footer{
+    background-color:darkgray;
+    padding:10px;
+    padding-top:35px;
+}
+.footer img{
+    background-color:darkgray;
+    mix-blend-mode: multiply;
+}
+.footer-last{
+    float:right;
+    font-size:100px;
+    background-color:fuchsia
+    font-color :white;
+}
