@@ -6,9 +6,12 @@ body{
     margin:0;
 }
 .header {
-    background-color:aqua;
+    background-color:aquamarine;
+    padding:1%;
+    font-size:3rem;
+    margin:0;
 }
-h2{
+.subtitle{
     background-color:lightblue;
 }
 
@@ -24,4 +27,10 @@ h2{
 .footer-last{
     float:right;
     font-size:7vw;
+}
+.since{
+    float:right;
+    font-size:3vw;
+    background-color:black;
+    color:white;
 }
