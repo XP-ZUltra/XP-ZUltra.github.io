@@ -16,12 +16,12 @@ body{
 }
 
 .footer{
-    background-color:darkgray;
+    background-color:aquamarine;
     padding:10px;
     padding-top:35px;
 }
 .footer img{
-    background-color:darkgray;
+    background-color:aquamarine;
     mix-blend-mode: multiply;
 }
 .footer-last{
