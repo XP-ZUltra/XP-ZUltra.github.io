@@ -1,41 +1,3 @@
-<<<<<<< HEAD
-html{
-    font-family: Arial, sans-serif;
-    background-color:white;
-}
-body{
-    margin:0;
-}
-.header {
-    background-color:aquamarine;
-    padding:1%;
-    font-size:3rem;
-    margin:0;
-}
-.subtitle{
-    background-color:lightblue;
-}
-
-.footer{
-    background-color:aquamarine;
-    padding:10px;
-    padding-top:3%;
-}
-.footer img{
-    background-color:aquamarine;
-    mix-blend-mode: multiply;
-}
-.footer-last{
-    float:right;
-    font-size:7vw;
-}
-.since{
-    float:right;
-    font-size:3vw;
-    background-color:black;
-    color:white;
-}
-=======
 html{
     font-family: Arial, sans-serif;
     background-color:white;
@@ -72,4 +34,3 @@ body{
     background-color:black;
     color:white;
 }
->>>>>>> 4f1518e7bf6fa42834a424fe36bb4432308460aa
