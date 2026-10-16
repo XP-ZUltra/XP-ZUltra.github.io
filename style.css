@@ -6,12 +6,19 @@ body{
     margin:0;
 }
 .header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color:aquamarine;
     padding:1%;
     font-size:3rem;
     margin:0;
 }
 .subtitle{
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color:lightblue;
 }
 
@@ -34,3 +41,4 @@ body{
     background-color:black;
     color:white;
 }
+
