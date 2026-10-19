@@ -1,6 +1,6 @@
 html{
     font-family: Arial, sans-serif;
-    background-color:white;
+    background-color:rgb(209, 244, 255);
 }
 body{
     margin:0;
@@ -19,9 +19,12 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color:lightblue;
+    background-color:skyblue;
 }
-
+.pikuao{
+    background-color:rgb(209, 244, 255);
+    mix-blend-mode: multiply;
+}
 .footer{
     background-color:aquamarine;
     padding:10px;
