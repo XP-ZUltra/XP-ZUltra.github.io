@@ -21,6 +21,9 @@ body{
     align-items: center;
     background-color:skyblue;
 }
+.SNS-contents{
+    margin:0px;
+}
 .pikuao{
     background-color:rgb(209, 244, 255);
     mix-blend-mode: multiply;
