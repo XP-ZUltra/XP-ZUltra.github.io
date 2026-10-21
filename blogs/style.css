@@ -1,7 +1,15 @@
 body{
     font-family:Arial, sans-serif;
     background-color: rgb(209, 244, 255);
+    margin:0;
 }
 .header{
     background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:aquamarine;
+    padding:1%;
+    font-size:4vw;
+    margin:0;
 }
