@@ -31,8 +31,17 @@ body{
     align-items: center;
     background-color:skyblue;
 }
+.XP_blogs:hover{
+    opacity:0.6
+}
 .SNS-contents{
     margin:0px;
+}
+.SNS-contents:hover{
+    opacity:0.6
+}
+.sougolink img:hover{
+    opacity:0.6
 }
 .pikuao{
     background-color:rgb(209, 244, 255);
