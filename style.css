@@ -31,21 +31,46 @@ body{
     align-items: center;
     background-color:skyblue;
 }
-.XP_blogs:hover{
+.XP_blogs img{
+    width:80%;
+    border:3px solid rgb(0,195,255);
+    border-radius:20px;
+    display:block;
+    margin:auto;
+}
+.XP_blogs img:hover{
     opacity:0.6
 }
-.SNS-contents{
+.SNSLinks img{
+    width:20%;
     margin:0px;
+    border:3px solid rgb(0,195,255);
+    border-radius:20px;
 }
-.SNS-contents:hover{
+.SNSLinks img:hover{
     opacity:0.6
+}
+.sougolink img{
+    display:block;
+    margin:auto;
+}
+.sougolink img:not(.pikuao img){
+    width:50%;
 }
 .sougolink img:hover{
     opacity:0.6
 }
-.pikuao{
+.sougolink p{
+    text-align:center;
+}
+.pikuao img{
+    width:25%;
+    padding:0px;
     background-color:rgb(209, 244, 255);
     mix-blend-mode: multiply;
+}
+.counter{
+    width:80%;
 }
 .footer{
     background-color:aquamarine;
@@ -53,6 +78,7 @@ body{
     padding-top:35px;
 }
 .footer img{
+    width:30%;
     background-color:aquamarine;
     mix-blend-mode: multiply;
 }
