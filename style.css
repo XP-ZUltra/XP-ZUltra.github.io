@@ -24,12 +24,27 @@ body{
     z-index:1000;
     background-color: rgba(127,255,212,0.7);
 }
+.header:hover{
+    background-color:rgba(127,255,212,1);
+}
 .subtitle{
     border-radius: 25px;
     display: flex;
     justify-content: center;
     align-items: center;
     background-color:skyblue;
+}
+.screenshot{
+    width:80%;
+    display:block;
+    margin:auto;
+    border:3px solid rgb(0, 70, 90);
+    border-radius:20px;
+    transition:0.5s;
+}
+.screenshot:hover{
+    border:3px solid rgb(0,195,255);
+    transform:translateY(-8px);
 }
 .XP_blogs img{
     width:80%;
